@@ -2,4 +2,4 @@
 
 Just a little python **MINI** project for a lil fun and to remind myself of syntax...
 
-"4 Losers", because the computers responses are funny and narcissistic... 😏
+"**4 Losers**", because the computers responses are funny and narcissistic... 😏
