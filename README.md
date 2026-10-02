@@ -1,4 +1,4 @@
-## 🪨Rock 🧻Paper ✂️Scissors 4 Losers 🤖 ⚔️ :roll_eyes
+## 🪨Rock 🧻Paper ✂️Scissors 4 Losers 🤖 ⚔️ 🙄
 
 Just a little python **MINI** project for a lil fun and to remind myself of syntax...
 
